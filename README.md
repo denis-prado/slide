@@ -1,1 +1,1 @@
-#Exemplo de slider com HTML e CSS
+# Exemplo de slider com HTML e CSS
